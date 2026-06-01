@@ -1,0 +1,8 @@
+#random-hover {
+  opacity: 1 !important;
+  padding-left: 2rem;
+  background: var(--anzhiyu-theme-op-deep);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  cursor: pointer;
+}
